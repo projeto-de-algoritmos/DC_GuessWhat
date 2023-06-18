@@ -1,7 +1,6 @@
-# Catch Rat
+# Matrix Multiplier
 
-**Número da Lista**: 10<br>
-**Conteúdo da Disciplina**: Grafos2<br>
+**Número da Lista**: 10<br>Divisão e ConquistaGrafos2<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -10,18 +9,18 @@
 | 20/2017521  |  Algusto Rodrigues Caldas |
 
 ## Sobre 
-Gerador de labirintos aleatórios.
+xxxx
 
 ## Screenshots
-<center>Labirinto 1</center>
+<center>xxx</center>
 
 ![Labirinto 1](./assets/lab1.jpeg)
 
-<center>Labirinto 2</center>
+<center>xxx</center>
 
 ![Labirinto 2](./assets/lab2.jpeg)
 
-<center>Labirinto 3</center>
+<center>xxx</center>
 
 ![Labirinto 3](./assets/lab3.jpeg)
 
@@ -29,10 +28,10 @@ Gerador de labirintos aleatórios.
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: Pygame e Numpy<br>
-Necessário ter uma versão atualizada da linguagem Python (Preferência 3.10) e, além disso, instalar o framework Pygame e Numpy (Use o comando: pip install). 
+Necessário ter uma versão atualizada da linguagem Python (Preferência 3.10) e, além disso, instalar o framework xxx e xxx (Use o comando: pip install). 
 
 ## Uso 
-Basta dar run no código para que seja possível gerar um novo mapa aleatório.
+xxxx
 
 ## Outros 
-None
+xxxx
