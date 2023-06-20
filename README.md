@@ -11,7 +11,7 @@
 ## Sobre 
 Um jogo em que o computador "adivinha" o número em que o jogador está pensando. Utilizando do algoritmo de busca binária, é possível fazer uma busca eficiente pelo número dentro de um intervalo específico. O computador fará perguntas ao jogador e utilizará a busca binária para reduzir o intervalo de possibilidades até encontrar o número correto. 
 
-No exemplo abaixo, o usário pensou no número 37.
+No exemplo abaixo, o usuário pensou no número 37.
 
 ## Screenshots
 <center>primeiro chute</center>
