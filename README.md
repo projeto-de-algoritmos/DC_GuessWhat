@@ -1,6 +1,6 @@
 # Guess What
 
-**Número da Lista**: 10<br>Divisão e ConquistaGrafos2<br>
+**Número da Lista**: 10<br>Divisão e Conquista<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -9,7 +9,9 @@
 | 20/2017521  |  Algusto Rodrigues Caldas |
 
 ## Sobre 
-O projeto consiste em um jogo de advinhação, em que o usuário pensa em um número e interage com o computador, até a interface advinhar o número. No exemplo abaixo o usuário pensou no número 37.
+Um jogo em que o computador "adivinha" o número em que o jogador está pensando. Utilizando do algoritmo de busca binária, é possível fazer uma busca eficiente pelo número dentro de um intervalo específico. O computador fará perguntas ao jogador e utilizará a busca binária para reduzir o intervalo de possibilidades até encontrar o número correto. 
+
+No exemplo abaixo, o usário pensou no número 37.
 
 ## Screenshots
 <center>primeiro chute</center>
@@ -27,11 +29,11 @@ O projeto consiste em um jogo de advinhação, em que o usuário pensa em um nú
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: Pygame e Numpy<br>
-Necessário ter uma versão atualizada da linguagem Python (Preferência 3.10) e, além disso, instalar o framework xxx e xxx (Use o comando: pip install). 
+**Framework**: Tkinter<br>
+Necessário ter uma versão atualizada da linguagem Python (Preferência 3.10) e, além disso, instalar o framework tkinter (Use o comando: pip install). 
 
 ## Uso 
-xxxx
+Basta pensar em um número e responder as perguntas do computador com respostas que variam entre: "menor", "maior" ou "igual".
 
 ## Outros 
-xxxx
+None.
