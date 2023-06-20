@@ -9,18 +9,18 @@
 | 20/2017521  |  Algusto Rodrigues Caldas |
 
 ## Sobre 
-xxxx
+O projeto consiste em um jogo de advinhação, em que o usuário pensa em um número e interage com o computador, até a interface advinhar o número. No exemplo abaixo o usuário pensou no número 37.
 
 ## Screenshots
-<center>xxx</center>
+<center>primeiro chute</center>
 
 ![Labirinto 1](./assets/img1.jpeg)
 
-<center>xxx</center>
+<center>segundo chute</center>
 
 ![Labirinto 2](./assets/img2.jpeg)
 
-<center>xxx</center>
+<center>computador advinhou</center>
 
 ![Labirinto 3](./assets/img3.jpeg)
 
