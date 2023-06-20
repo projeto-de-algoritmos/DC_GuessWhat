@@ -14,15 +14,15 @@ xxxx
 ## Screenshots
 <center>xxx</center>
 
-![Labirinto 1](./assets/lab1.jpeg)
+![Labirinto 1](./assets/img1.jpeg)
 
 <center>xxx</center>
 
-![Labirinto 2](./assets/lab2.jpeg)
+![Labirinto 2](./assets/img2.jpeg)
 
 <center>xxx</center>
 
-![Labirinto 3](./assets/lab3.jpeg)
+![Labirinto 3](./assets/img3.jpeg)
 
 
 ## Instalação 
