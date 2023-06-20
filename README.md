@@ -1,6 +1,6 @@
 # Guess What
 
-**Número da Lista**: 10<br>Divisão e ConquistaGrafos2<br>
+**Número da Lista**: 10<br>Divisão e Conquista<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -9,29 +9,31 @@
 | 20/2017521  |  Algusto Rodrigues Caldas |
 
 ## Sobre 
-xxxx
+Um jogo em que o computador "adivinha" o número em que o jogador está pensando. Utilizando do algoritmo de busca binária, é possível fazer uma busca eficiente pelo número dentro de um intervalo específico. O computador fará perguntas ao jogador e utilizará a busca binária para reduzir o intervalo de possibilidades até encontrar o número correto. 
+
+No exemplo abaixo, o usuário pensou no número 37.
 
 ## Screenshots
-<center>xxx</center>
+<center>primeiro chute</center>
 
-![Labirinto 1](./assets/lab1.jpeg)
+![Labirinto 1](./assets/img1.jpeg)
 
-<center>xxx</center>
+<center>segundo chute</center>
 
-![Labirinto 2](./assets/lab2.jpeg)
+![Labirinto 2](./assets/img2.jpeg)
 
-<center>xxx</center>
+<center>computador advinhou</center>
 
-![Labirinto 3](./assets/lab3.jpeg)
+![Labirinto 3](./assets/img3.jpeg)
 
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: Pygame e Numpy<br>
-Necessário ter uma versão atualizada da linguagem Python (Preferência 3.10) e, além disso, instalar o framework xxx e xxx (Use o comando: pip install). 
+**Framework**: Tkinter<br>
+Necessário ter uma versão atualizada da linguagem Python (Preferência 3.10) e, além disso, instalar o framework tkinter (Use o comando: pip install). 
 
 ## Uso 
-xxxx
+Basta pensar em um número e responder as perguntas do computador com respostas que variam entre: "menor", "maior" ou "igual".
 
 ## Outros 
-xxxx
+None.
